@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 >
-> 本项目想法来源于[fuck-u-code]([Done-0/fuck-u-code: Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告](https://github.com/Done-0/fuck-u-code))，本项目仅仅是其的**python**版本实现(自认为相较于**golang**语言更方便使用)
+> 本项目想法来源于[fuck-u-code](https://github.com/Done-0/fuck-u-code)，本项目仅仅是其的**python**版本实现(自认为相较于**golang**语言更方便使用)
 
 仅需电脑中有python环境即可检测自己项目的评分，方便、已用、有趣。
 
